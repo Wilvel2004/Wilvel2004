@@ -7,14 +7,24 @@
 Wilvel</a></h1>
 <h3 align="center">A passionate Back-end developer</h3>
 
-## About Me :
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About Me ✨</h2></summary>
+  </ul>
+</div>
 
 #### I’m a graduate in Multiplatform Application Development with a focus on backend development using Java and Spring Boot
+
+<ul>
+  <li>💻 Passionate about technology and development</li>
+  <li>🚀 Currently improving my skills</li>
+  <li>🌱 Interested in software development</li>
+</ul>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -28,7 +38,7 @@ Wilvel</a></h1>
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
